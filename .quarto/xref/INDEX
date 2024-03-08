@@ -4,5 +4,14 @@
   },
   "about.qmd": {
     "about.html": "11d1d92b"
+  },
+  "labs.qmd": {
+    "labs.html": "8453fe93"
+  },
+  "project.qmd": {
+    "project.html": "c3128c10"
+  },
+  "presentation.qmd": {
+    "presentation.html": "548de639"
   }
 }
