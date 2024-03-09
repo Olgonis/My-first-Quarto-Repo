@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+![](Sophia_Bird.jpg)
 
-```{r}
-1 + 1
-```
+I am Sophia Halling, a senior biology major at Umass Amherst. My current interests are animal behavior, marine biology, ecology, conservation, and genetics. I am planning to have a career doing research after finding a field I am interested in. I have some lab skills gained through classes, such as the marine biology CURE lab. I also have some experience with java and R studio. my hobbies include reading, raising orchids, nature photography (including night photography), and fish keeping.

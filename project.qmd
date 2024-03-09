@@ -2,4 +2,4 @@
 title: "Project"
 ---
 
-this is the project section
+This is the project section. Since there is nothing else on this tab please enjoy a picture I took in death valley a few years ago in the summer.![](Milkyway death Valley 1.jpg)
