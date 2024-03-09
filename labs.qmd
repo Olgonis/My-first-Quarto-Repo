@@ -2,6 +2,4 @@
 title: "Labs"
 ---
 
-This is the labs section. There is nothing needed in this section, so please enjoy a sunset picture I took.
-
-![](sunsetPonk.jpg)
+This is the labs section.
